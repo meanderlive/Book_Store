@@ -1,0 +1,11 @@
+.table th, .table td {
+    text-align: center;
+  }
+  
+  .btn {
+    margin-left: 5px;
+  }
+
+ .ReactModal__Overlay--after-open{
+    background-color: rgb(0, 0, 0 ,0.75) !important;
+  }
